@@ -3,7 +3,7 @@
 ## _"Probably the best Chinese Rap of 2022, by '[v在燃烧][1]'"_
 - I am not the author, just want to share the songs and MVs.
 - The author had claimed by the title of his [folder][2] released[^1] that "The content is freely disseminate with the spirit of Communism, and open source", then there's no need for a license. 
-😅 Just a newbee here, can some one tell or just help me upload file bigger than 25MB?
+- 😅 Just a newbee here, can some one tell or just help me upload file bigger than 25MB?
 ---
 [1]: https://space.bilibili.com/678797523?spm_id_from=333.337.0.0
 [2]: https://pan.quark.cn/s/ee2a39c1be14
